@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Basic Banking App</string>
+    <string name="view_users">View Users</string>
+    <string name="search">Search</string>
+    <string name="pranav">PRANAV</string>
+    <string name="basic_banking_system">BASIC BANKING SYSTEM</string>
+    <string name="developed_by">Developed by</string>
+</resources>
